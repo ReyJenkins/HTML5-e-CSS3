@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Atividade 3 - Estrutura e Formatação</title>
+	</head>
+	<body>
+		<h1>Quem Somos</h1>
+		<hr>
+		<h2>Conheça a nossa História</h2>
+		<p>O <strong>Club Pet Shop</strong> é um espaço bem frequentado por criadores de animais de estimação situado na região do <i>Morumbi - São Paulo</i>, 
+		que funciona de segunda a sexta- feira das 9h às 18h, <br> e aos sábados das 9h às 13h. O negócio surgiu a partir do propósito de ser referência nos 
+		cuidados com animais domiciliares, refletindo o amor e respeito que os donos têm para com os <br> seus animais como uma maneira diferente de se tornar
+		mais próximo desse <sub>vínculo afetivo</sub>.</p>
+		
+		<p>Além de ser uma referência em cuidados com os animais, o <sup>Club</sup> é também um modelo <del>inovador</del> de estrutura física, sendo capaz de suportar animais de 
+		todos os portes mantendo, ainda, o conforto e liberdade de cada um deles sem precisar utilizar gaiolas, como acontece usualmente em outros 
+		estabelecimentos do segmento.</p>
+		
+		<hr>
+
+	<h3>Missão:</h3>
+	<small>Ser o segundo dono do seu animal;</small>
+	<hr>
+	<h3>Visão</h3>
+	<small>Ser o melhor pet shop e ter o melhor serviço com os melhores profissionais;</small>
+	<hr>
+	<h3>Valores</h3>
+	<small>Tratar o animal com respeito e carinho. <b>Qualidade</b>, trabalho em equipe e lucro.</small><hr>
+
+	&copy;Clube Pet Shop.
+	
+	</body>
+</html>
