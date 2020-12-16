@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Atividade 2 - Quebra de Linhas e Paragrafos</title>
+	</head>
+	<body>
+		<h1>Primeira Página</h1>
+		Saudações. Bem Vindos à minha primeira página.<br>
+		Aqui será apresentado a nova versão do HTML.<br>
+		Essa versão traz consigo importantes mudanças quanto ao papel do HTML no
+		mundo da web, por meio de novas funcionalidades, como semântica e acessibilidade.
+		
+		<p>Novos recursos que antes só eram possíveis por meio de outras tecnologias.</p>
+	</body>
+
+</html>
