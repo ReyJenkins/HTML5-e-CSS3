@@ -1,0 +1,16 @@
+<!DOCTYPE HTML>
+<html lang="pt-br">
+
+	<head>
+		<meta charset="utf-8">
+		<title>Atividade 1 - Corpo Básico e Primeiras Instruções</title>
+	</head>
+	<body>
+		<h1>Primeira Página</h1>
+		<!-- Este é um comentário -->
+		<p>Este é um parágrafo</p>
+		<!-- Lembre-se de adicionaroutras informações aqui -->
+		Saudações. Bem Vindos à minha primeira página.
+	</body>
+
+</html>
